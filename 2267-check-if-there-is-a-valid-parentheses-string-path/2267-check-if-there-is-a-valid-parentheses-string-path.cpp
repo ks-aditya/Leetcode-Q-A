@@ -10,9 +10,10 @@ public:
 
         else if (i==ti && j==tj) return s==0;
         
-        if ( dp[i][j][s] != -1) return dp[i][j][s];
+        if ( dp[i][j][s] != -1) return dp[i][j][s];     //if particular score for particular row & col. already calculated, return it.
 
-        else{
+        else{               // if score not already calculated.
+        
             bool down = (i+1<=ti) ? validScore(i+1,j,s,ti,tj,m) : false;
             bool right = (j+1<=tj) ? validScore(i,j+1,s,ti,tj,m) : false;
 
