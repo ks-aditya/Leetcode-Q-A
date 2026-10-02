@@ -2,23 +2,34 @@ class Solution {
 public:
     vector<string> ans;
 
-    void generate(string str, int open, int close, int n) {
+    void makeParenthesis(vector<string>& ans, int n, int strlen, int score, char c, string str) {
 
-    if (str.length() == 2 * n) {
-        ans.push_back(str);
-        return;
+        if (c == '(')
+            score += 1;
+        else if (c == ')')
+            score -= 1;
+
+        str += c;
+        ++strlen;
+
+        if (strlen == n && score == 0) {
+            ans.push_back(str);
+            return;
+        } else if (strlen < n && score >= 0 && score <= n / 2) {
+            makeParenthesis(ans, n, strlen, score, '(', str);
+            makeParenthesis(ans, n, strlen, score, ')', str);
+        } else return;
     }
-
-    if (open < n)
-        generate(str + '(', open + 1, close, n);
-
-    if (close < open)
-        generate(str + ')', open, close + 1, n);
-}
 
     vector<string> generateParenthesis(int n) {
 
-        generate("", 0, 0, n);
+        int strlen = 0;
+        int maxchar = 2 * n;
+        int score = 0;
+        string str = "";
+
+        makeParenthesis(ans, maxchar, strlen, score, '(', str);
+
         return ans;
     }
 };
