@@ -14,7 +14,7 @@ public:
             ans.push_back(str);
             return;
         }
-        else if(score >= 0 && strlen < n){
+        else if(strlen < n && score >= 0 && score <= n/2){
             parenthesis(ans, n, strlen, score, '(' ,str);
             parenthesis(ans, n, strlen, score, ')',str);
         }
