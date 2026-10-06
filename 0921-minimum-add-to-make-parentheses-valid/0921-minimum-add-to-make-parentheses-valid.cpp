@@ -2,6 +2,8 @@ class Solution {
 public:
     int minAddToMakeValid(string s) {
         
+
+        // own thinking and solution.
         stack<char> st;
         int open = 0;
         int close = 0;
