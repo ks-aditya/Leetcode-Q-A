@@ -6,17 +6,14 @@ public:
 
         long long ans = 0;
 
-        for(int i = 0; i<nums.size(); i++) nums[i] = abs(nums[i]);
+        for(auto& it: nums) it = it*it;
 
         sort(nums.begin(), nums.end());
-        int i = 0;
-        int j = nums.size()-1;
+        int n = nums.size();
 
-        while(i<=j){
-            if(i==j) ans+=nums[j]*nums[j];
-            else ans = ans + (nums[j]*nums[j] - nums[i]*nums[i]);
-            i++;
-            j--;
+        for(int i = n-1; i>=0; i--){
+            if(i>=n/2) ans += nums[i];
+            else ans -= nums[i];
         }
 
         return ans;
