@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ks-aditya/Leetcode-Q-A/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
