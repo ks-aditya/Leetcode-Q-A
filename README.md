@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Dynamic Programming
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,8 +130,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
