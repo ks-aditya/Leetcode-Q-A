@@ -29,7 +29,7 @@ public:
                      return a.second < b.second;
                  }
 
-                 // 3. Both contain 1s and 0s
+                 // 3. Both contain 1s and 0s - 1's descending and 0's ascending.
                  if (a.first != b.first)
                      return a.first > b.first;
 
@@ -53,7 +53,5 @@ public:
         }
 
         return ans;
-
-        return (ans % mod);
     }
 };
