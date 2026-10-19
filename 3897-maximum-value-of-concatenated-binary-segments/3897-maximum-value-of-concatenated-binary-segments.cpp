@@ -21,7 +21,7 @@ public:
                  }
 
                  // 2. Segments containing only 0s come last
-                 if (a.first == 0 || b.first == 0) {
+                 else if (a.first == 0 || b.first == 0) {
                      if (a.first == 0 && b.first != 0)
                          return false;
                      if (b.first == 0 && a.first != 0)
@@ -30,8 +30,7 @@ public:
                  }
 
                  // 3. Both contain 1s and 0s - 1's descending and 0's ascending.
-                 if (a.first != b.first)
-                     return a.first > b.first;
+                 else if (a.first != b.first) return a.first > b.first;
 
                  return a.second < b.second;
              });
