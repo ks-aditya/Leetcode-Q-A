@@ -30,7 +30,7 @@ public:
                 // Check the circular boundary
                 if (nums[end] > nums[start]) desc++;
 
-                // Must be rotatable and compatible with previous block
+                // Must be rotatable and compatible with previous block for ascending sorting.
                 if (desc > 1 || minElement < prevmaxElement) {
                     valid = false;
                     break;
