@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
