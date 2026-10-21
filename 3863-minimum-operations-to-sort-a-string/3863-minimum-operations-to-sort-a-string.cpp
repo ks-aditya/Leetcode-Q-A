@@ -19,7 +19,7 @@ public:
     
             if(s[minIdx] == s[0] || s[maxIdx] == s[len-1]) return 1;
 
-            if (abs(maxIdx - minIdx) <= len - 2 || minIdx + 1 == maxIdx || maxIdx + 1 == minIdx) {
+            if (abs(maxIdx - minIdx) <= len - 2) {
                 return 2;
             }
             return 3;
