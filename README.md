@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3897-maximum-value-of-concatenated-binary-segments](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3897-maximum-value-of-concatenated-binary-segments/) | Hard |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
