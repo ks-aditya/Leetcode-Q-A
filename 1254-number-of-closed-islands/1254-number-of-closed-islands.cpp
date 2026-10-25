@@ -12,10 +12,10 @@ public:
 
         grid[i][j] = 1;     // mark this cell as visited.
 
-        int left = checkIsland(i, j-1, grid);
-        int right = checkIsland(i, j+1, grid);
-        int top = checkIsland(i-1, j, grid);
-        int bottom = checkIsland(i+1, j, grid);
+        bool left = checkIsland(i, j-1, grid);
+        bool right = checkIsland(i, j+1, grid);
+        bool top = checkIsland(i-1, j, grid);
+        bool bottom = checkIsland(i+1, j, grid);
 
         return left && right && top && bottom;
     }
