@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2409-count-days-spent-together/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
