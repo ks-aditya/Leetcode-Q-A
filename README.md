@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ks-aditya/Leetcode-Q-A/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ks-aditya/Leetcode-Q-A/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
