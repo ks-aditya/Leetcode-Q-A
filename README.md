@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
