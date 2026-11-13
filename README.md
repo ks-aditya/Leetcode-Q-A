@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2747-count-zero-request-servers](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -276,4 +280,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ks-aditya/Leetcode-Q-A/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
